@@ -1,12 +1,3 @@
-/*
-    Name: Alex Eseyin
-    ID: 1001598309
-*/
-/*
-    Name: Israel Tshitenge
-    ID: 1001642997
-*/
-
 // #define _GNU_SOURCE
 
 #include <stdio.h>
